@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
 
 PackageIdentifier: Microsoft.Bicep
-PackageVersion: 0.40.2
+PackageVersion: 0.41.2
 Commands:
 - bicep
 Installers:
@@ -22,7 +22,7 @@ Installers:
   UpgradeBehavior: install
   ProductCode: '{7EF9DE63-59B1-4325-955A-937F3E0A4EA8}_is1'
   AppsAndFeaturesEntries:
-  - DisplayVersion: 0.40.2.10011
+  - DisplayVersion: 0.41.2.10011
   InstallationMetadata:
     DefaultInstallLocation: '%ProgramFiles%\Bicep CLI'
 ManifestType: installer

@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.10.0.schema.json
 
 PackageIdentifier: Microsoft.Bicep
-PackageVersion: 0.40.2
+PackageVersion: 0.41.2
 PackageLocale: zh-CN
 PrivacyUrl: https://privacy.microsoft.com/zh-cn/privacystatement
 ShortDescription: 用于描述和部署 Azure 资源的声明式语言
